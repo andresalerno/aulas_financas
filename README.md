@@ -1,4 +1,4 @@
-```
+
 [![Made with Python](https://img.shields.io/badge/Python->=3.11-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
 [![dependency - pandas==2.1.0](https://img.shields.io/badge/dependency-pandas==2.1.0-blue)](https://pandas.pydata.org/ "Go to Pandas homepage")
 [![dependency - numpy==1.25.2](https://img.shields.io/badge/dependency-numpy==1.25.2-blue)](https://numpy.org/ "Go to Numpy homepage")
@@ -23,4 +23,4 @@ Released under [MIT](/LICENSE) by [@andresalerno](https://github.com/andresalern
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andresalerno)](https://github.com/andresalerno)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresalerno/)](https://www.linkedin.com/in/andresalerno/)
 [![Salerno](https://komarev.com/ghpvc/?username=andresalerno)](https://github.com/andresalerno
-```
+
